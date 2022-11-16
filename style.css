@@ -20,7 +20,6 @@ body {
     /* align-items: center; */
     flex-wrap: wrap;
     width: 40%;
-    border: 1px solid;
 }
 
 .class {
