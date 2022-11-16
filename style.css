@@ -34,7 +34,6 @@ body {
 
 .class-button, .button {
     width: 130px;
-    max-height: 2rem;
     color: #000000;
     border: 1px solid;
     border-radius: 3px;
@@ -81,7 +80,6 @@ input[type="text"] {
 .plus {
     border-radius: 0px 5px 5px 0px;
 }
-
 
 .dk {
     background-color: #c41e3a;
