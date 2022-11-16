@@ -7,13 +7,19 @@
 
 body {
     background-color: #25415a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .main-content {
+    margin-top: 2em;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: center;
     align-items: center;
-    margin-top: 5em;
+    flex-wrap: wrap;
+    width: 50vw;
 }
 
 .class {
@@ -78,6 +84,7 @@ input[type="text"] {
 }
 
 .plus {
+    margin-right: 2em;
     border-radius: 0px 5px 5px 0px;
 }
 
